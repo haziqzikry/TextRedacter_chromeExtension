@@ -8,4 +8,4 @@ A simple Chrome extension that redacts any text on all websites. The specific te
 * Turn on "Developer mode" on the top right
 * Click "Load unpacked extension..." on the top left
 * Select the folder which you have already extracted
-teest
+* testing 1234
