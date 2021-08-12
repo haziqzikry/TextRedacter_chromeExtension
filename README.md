@@ -11,3 +11,4 @@ A simple Chrome extension that redacts any text on all websites. The specific te
 * testing 1234
 * test 12/8 10.13am
 * test 2 12/8 10.20am
+* test 3 12/8 1.41pm
