@@ -10,3 +10,4 @@ A simple Chrome extension that redacts any text on all websites. The specific te
 * Select the folder which you have already extracted
 * testing 1234
 * test 12/8 10.13am
+* test 2 12/8 10.20am
